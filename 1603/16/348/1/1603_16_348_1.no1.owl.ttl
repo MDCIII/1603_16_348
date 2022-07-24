@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Bacs Kiskun"@hun-Latn ;
-    wdata:q7200235 "HU001" ;
+    wdata:Q7200235 "HU001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -64,7 +64,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:10" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Heves"@hun-Latn ;
-    wdata:q7200235 "HU010" ;
+    wdata:Q7200235 "HU010" ;
 .
 
 <urn:mdciii:1603:16:348:1:11>
@@ -75,7 +75,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:11" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Jasz Nagykun Szolnok"@hun-Latn ;
-    wdata:q7200235 "HU011" ;
+    wdata:Q7200235 "HU011" ;
 .
 
 <urn:mdciii:1603:16:348:1:12>
@@ -86,7 +86,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:12" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Komarom Esztergom"@hun-Latn ;
-    wdata:q7200235 "HU012" ;
+    wdata:Q7200235 "HU012" ;
 .
 
 <urn:mdciii:1603:16:348:1:13>
@@ -97,7 +97,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:13" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Nograd"@hun-Latn ;
-    wdata:q7200235 "HU013" ;
+    wdata:Q7200235 "HU013" ;
 .
 
 <urn:mdciii:1603:16:348:1:14>
@@ -108,7 +108,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:14" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Pest megye"@hun-Latn ;
-    wdata:q7200235 "HU014" ;
+    wdata:Q7200235 "HU014" ;
 .
 
 <urn:mdciii:1603:16:348:1:15>
@@ -119,7 +119,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:15" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Somogy"@hun-Latn ;
-    wdata:q7200235 "HU015" ;
+    wdata:Q7200235 "HU015" ;
 .
 
 <urn:mdciii:1603:16:348:1:16>
@@ -130,7 +130,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:16" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Szabolcs Szatmar Bereg"@hun-Latn ;
-    wdata:q7200235 "HU016" ;
+    wdata:Q7200235 "HU016" ;
 .
 
 <urn:mdciii:1603:16:348:1:17>
@@ -141,7 +141,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:17" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Tolna"@hun-Latn ;
-    wdata:q7200235 "HU017" ;
+    wdata:Q7200235 "HU017" ;
 .
 
 <urn:mdciii:1603:16:348:1:18>
@@ -152,7 +152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:18" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Vas"@hun-Latn ;
-    wdata:q7200235 "HU018" ;
+    wdata:Q7200235 "HU018" ;
 .
 
 <urn:mdciii:1603:16:348:1:19>
@@ -163,7 +163,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:19" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Veszprem"@hun-Latn ;
-    wdata:q7200235 "HU019" ;
+    wdata:Q7200235 "HU019" ;
 .
 
 <urn:mdciii:1603:16:348:1:2>
@@ -174,7 +174,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Baranya"@hun-Latn ;
-    wdata:q7200235 "HU002" ;
+    wdata:Q7200235 "HU002" ;
 .
 
 <urn:mdciii:1603:16:348:1:20>
@@ -185,7 +185,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:20" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Zala"@hun-Latn ;
-    wdata:q7200235 "HU020" ;
+    wdata:Q7200235 "HU020" ;
 .
 
 <urn:mdciii:1603:16:348:1:3>
@@ -196,7 +196,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Bekes"@hun-Latn ;
-    wdata:q7200235 "HU003" ;
+    wdata:Q7200235 "HU003" ;
 .
 
 <urn:mdciii:1603:16:348:1:4>
@@ -207,7 +207,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Borsod Abauj Zemplen"@hun-Latn ;
-    wdata:q7200235 "HU004" ;
+    wdata:Q7200235 "HU004" ;
 .
 
 <urn:mdciii:1603:16:348:1:5>
@@ -218,7 +218,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Budapest"@hun-Latn ;
-    wdata:q7200235 "HU005" ;
+    wdata:Q7200235 "HU005" ;
 .
 
 <urn:mdciii:1603:16:348:1:6>
@@ -229,7 +229,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Csongrad"@hun-Latn ;
-    wdata:q7200235 "HU006" ;
+    wdata:Q7200235 "HU006" ;
 .
 
 <urn:mdciii:1603:16:348:1:7>
@@ -240,7 +240,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Fejer"@hun-Latn ;
-    wdata:q7200235 "HU007" ;
+    wdata:Q7200235 "HU007" ;
 .
 
 <urn:mdciii:1603:16:348:1:8>
@@ -251,7 +251,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Gyor Moson Sopron"@hun-Latn ;
-    wdata:q7200235 "HU008" ;
+    wdata:Q7200235 "HU008" ;
 .
 
 <urn:mdciii:1603:16:348:1:9>
@@ -262,6 +262,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:0> ;
     skos:prefLabel "Hajdu Bihar"@hun-Latn ;
-    wdata:q7200235 "HU009" ;
+    wdata:Q7200235 "HU009" ;
 .
 

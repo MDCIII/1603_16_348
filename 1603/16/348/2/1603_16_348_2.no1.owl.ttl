@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:1> ;
     skos:prefLabel "Bacsalmasi jaras"@hun-Latn ;
-    wdata:q7200235 "HU001001" ;
+    wdata:Q7200235 "HU001001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -243,7 +243,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:10> ;
     skos:prefLabel "Belapatfalvai jaras"@hun-Latn ;
-    wdata:q7200235 "HU010001" ;
+    wdata:Q7200235 "HU010001" ;
 .
 
 <urn:mdciii:1603:16:348:2:10002>
@@ -255,7 +255,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:10> ;
     skos:prefLabel "Egri jaras"@hun-Latn ;
-    wdata:q7200235 "HU010002" ;
+    wdata:Q7200235 "HU010002" ;
 .
 
 <urn:mdciii:1603:16:348:2:10003>
@@ -267,7 +267,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:10> ;
     skos:prefLabel "Fuzesabonyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU010003" ;
+    wdata:Q7200235 "HU010003" ;
 .
 
 <urn:mdciii:1603:16:348:2:10004>
@@ -279,7 +279,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:10> ;
     skos:prefLabel "Gyongyosi jaras"@hun-Latn ;
-    wdata:q7200235 "HU010004" ;
+    wdata:Q7200235 "HU010004" ;
 .
 
 <urn:mdciii:1603:16:348:2:10005>
@@ -291,7 +291,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:10> ;
     skos:prefLabel "Hatvani jaras"@hun-Latn ;
-    wdata:q7200235 "HU010005" ;
+    wdata:Q7200235 "HU010005" ;
 .
 
 <urn:mdciii:1603:16:348:2:10006>
@@ -303,7 +303,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:10> ;
     skos:prefLabel "Hevesi jaras"@hun-Latn ;
-    wdata:q7200235 "HU010006" ;
+    wdata:Q7200235 "HU010006" ;
 .
 
 <urn:mdciii:1603:16:348:2:10007>
@@ -315,7 +315,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:10> ;
     skos:prefLabel "Petervasarai jaras"@hun-Latn ;
-    wdata:q7200235 "HU010007" ;
+    wdata:Q7200235 "HU010007" ;
 .
 
 <urn:mdciii:1603:16:348:2:1002>
@@ -327,7 +327,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:1> ;
     skos:prefLabel "Bajai jaras"@hun-Latn ;
-    wdata:q7200235 "HU001002" ;
+    wdata:Q7200235 "HU001002" ;
 .
 
 <urn:mdciii:1603:16:348:2:1003>
@@ -339,7 +339,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:1> ;
     skos:prefLabel "Janoshalmai jaras"@hun-Latn ;
-    wdata:q7200235 "HU001003" ;
+    wdata:Q7200235 "HU001003" ;
 .
 
 <urn:mdciii:1603:16:348:2:1004>
@@ -351,7 +351,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:1> ;
     skos:prefLabel "Kalocsai jaras"@hun-Latn ;
-    wdata:q7200235 "HU001004" ;
+    wdata:Q7200235 "HU001004" ;
 .
 
 <urn:mdciii:1603:16:348:2:1005>
@@ -363,7 +363,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:1> ;
     skos:prefLabel "Kecskemeti jaras"@hun-Latn ;
-    wdata:q7200235 "HU001005" ;
+    wdata:Q7200235 "HU001005" ;
 .
 
 <urn:mdciii:1603:16:348:2:1006>
@@ -375,7 +375,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:1> ;
     skos:prefLabel "Kiskorosi jaras"@hun-Latn ;
-    wdata:q7200235 "HU001006" ;
+    wdata:Q7200235 "HU001006" ;
 .
 
 <urn:mdciii:1603:16:348:2:1007>
@@ -387,7 +387,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:1> ;
     skos:prefLabel "Kiskunfelegyhazi jaras"@hun-Latn ;
-    wdata:q7200235 "HU001007" ;
+    wdata:Q7200235 "HU001007" ;
 .
 
 <urn:mdciii:1603:16:348:2:1008>
@@ -399,7 +399,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:1> ;
     skos:prefLabel "Kiskunhalasi jaras"@hun-Latn ;
-    wdata:q7200235 "HU001008" ;
+    wdata:Q7200235 "HU001008" ;
 .
 
 <urn:mdciii:1603:16:348:2:1009>
@@ -411,7 +411,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:1> ;
     skos:prefLabel "Kiskunmajsai jaras"@hun-Latn ;
-    wdata:q7200235 "HU001009" ;
+    wdata:Q7200235 "HU001009" ;
 .
 
 <urn:mdciii:1603:16:348:2:1010>
@@ -423,7 +423,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:1> ;
     skos:prefLabel "Kunszentmiklosi jaras"@hun-Latn ;
-    wdata:q7200235 "HU001010" ;
+    wdata:Q7200235 "HU001010" ;
 .
 
 <urn:mdciii:1603:16:348:2:1011>
@@ -435,7 +435,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:1> ;
     skos:prefLabel "Tiszakecskei jaras"@hun-Latn ;
-    wdata:q7200235 "HU001011" ;
+    wdata:Q7200235 "HU001011" ;
 .
 
 <urn:mdciii:1603:16:348:2:11001>
@@ -447,7 +447,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:11> ;
     skos:prefLabel "Jaszapati jaras"@hun-Latn ;
-    wdata:q7200235 "HU011001" ;
+    wdata:Q7200235 "HU011001" ;
 .
 
 <urn:mdciii:1603:16:348:2:11002>
@@ -459,7 +459,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:11> ;
     skos:prefLabel "Jaszberenyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU011002" ;
+    wdata:Q7200235 "HU011002" ;
 .
 
 <urn:mdciii:1603:16:348:2:11003>
@@ -471,7 +471,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:11> ;
     skos:prefLabel "Karcagi jaras"@hun-Latn ;
-    wdata:q7200235 "HU011003" ;
+    wdata:Q7200235 "HU011003" ;
 .
 
 <urn:mdciii:1603:16:348:2:11004>
@@ -483,7 +483,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:11> ;
     skos:prefLabel "Kunhegyesi jaras"@hun-Latn ;
-    wdata:q7200235 "HU011004" ;
+    wdata:Q7200235 "HU011004" ;
 .
 
 <urn:mdciii:1603:16:348:2:11005>
@@ -495,7 +495,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:11> ;
     skos:prefLabel "Kunszentmartoni jaras"@hun-Latn ;
-    wdata:q7200235 "HU011005" ;
+    wdata:Q7200235 "HU011005" ;
 .
 
 <urn:mdciii:1603:16:348:2:11006>
@@ -507,7 +507,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:11> ;
     skos:prefLabel "Mezoturi jaras"@hun-Latn ;
-    wdata:q7200235 "HU011006" ;
+    wdata:Q7200235 "HU011006" ;
 .
 
 <urn:mdciii:1603:16:348:2:11007>
@@ -519,7 +519,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:11> ;
     skos:prefLabel "Szolnoki jaras"@hun-Latn ;
-    wdata:q7200235 "HU011007" ;
+    wdata:Q7200235 "HU011007" ;
 .
 
 <urn:mdciii:1603:16:348:2:11008>
@@ -531,7 +531,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:11> ;
     skos:prefLabel "Tiszafuredi jaras"@hun-Latn ;
-    wdata:q7200235 "HU011008" ;
+    wdata:Q7200235 "HU011008" ;
 .
 
 <urn:mdciii:1603:16:348:2:11009>
@@ -543,7 +543,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:11> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:11> ;
     skos:prefLabel "Torokszentmiklosi jaras"@hun-Latn ;
-    wdata:q7200235 "HU011009" ;
+    wdata:Q7200235 "HU011009" ;
 .
 
 <urn:mdciii:1603:16:348:2:12001>
@@ -555,7 +555,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:12> ;
     skos:prefLabel "Esztergomi jaras"@hun-Latn ;
-    wdata:q7200235 "HU012001" ;
+    wdata:Q7200235 "HU012001" ;
 .
 
 <urn:mdciii:1603:16:348:2:12002>
@@ -567,7 +567,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:12> ;
     skos:prefLabel "Kisberi jaras"@hun-Latn ;
-    wdata:q7200235 "HU012002" ;
+    wdata:Q7200235 "HU012002" ;
 .
 
 <urn:mdciii:1603:16:348:2:12003>
@@ -579,7 +579,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:12> ;
     skos:prefLabel "Komaromi jaras"@hun-Latn ;
-    wdata:q7200235 "HU012003" ;
+    wdata:Q7200235 "HU012003" ;
 .
 
 <urn:mdciii:1603:16:348:2:12004>
@@ -591,7 +591,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:12> ;
     skos:prefLabel "Oroszlanyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU012004" ;
+    wdata:Q7200235 "HU012004" ;
 .
 
 <urn:mdciii:1603:16:348:2:12005>
@@ -603,7 +603,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:12> ;
     skos:prefLabel "Tatabanyai jaras"@hun-Latn ;
-    wdata:q7200235 "HU012005" ;
+    wdata:Q7200235 "HU012005" ;
 .
 
 <urn:mdciii:1603:16:348:2:12006>
@@ -615,7 +615,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:12> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:12> ;
     skos:prefLabel "Tatai jaras"@hun-Latn ;
-    wdata:q7200235 "HU012006" ;
+    wdata:Q7200235 "HU012006" ;
 .
 
 <urn:mdciii:1603:16:348:2:13001>
@@ -627,7 +627,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:13> ;
     skos:prefLabel "Balassagyarmati jaras"@hun-Latn ;
-    wdata:q7200235 "HU013001" ;
+    wdata:Q7200235 "HU013001" ;
 .
 
 <urn:mdciii:1603:16:348:2:13002>
@@ -639,7 +639,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:13> ;
     skos:prefLabel "Batonyterenyei jaras"@hun-Latn ;
-    wdata:q7200235 "HU013002" ;
+    wdata:Q7200235 "HU013002" ;
 .
 
 <urn:mdciii:1603:16:348:2:13003>
@@ -651,7 +651,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:13> ;
     skos:prefLabel "Pasztoi jaras"@hun-Latn ;
-    wdata:q7200235 "HU013003" ;
+    wdata:Q7200235 "HU013003" ;
 .
 
 <urn:mdciii:1603:16:348:2:13004>
@@ -663,7 +663,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:13> ;
     skos:prefLabel "Retsagi jaras"@hun-Latn ;
-    wdata:q7200235 "HU013004" ;
+    wdata:Q7200235 "HU013004" ;
 .
 
 <urn:mdciii:1603:16:348:2:13005>
@@ -675,7 +675,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:13> ;
     skos:prefLabel "Salgotarjani jaras"@hun-Latn ;
-    wdata:q7200235 "HU013005" ;
+    wdata:Q7200235 "HU013005" ;
 .
 
 <urn:mdciii:1603:16:348:2:13006>
@@ -687,7 +687,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:13> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:13> ;
     skos:prefLabel "Szecsenyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU013006" ;
+    wdata:Q7200235 "HU013006" ;
 .
 
 <urn:mdciii:1603:16:348:2:14001>
@@ -699,7 +699,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Aszodi jaras"@hun-Latn ;
-    wdata:q7200235 "HU014001" ;
+    wdata:Q7200235 "HU014001" ;
 .
 
 <urn:mdciii:1603:16:348:2:14002>
@@ -711,7 +711,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Budakeszi jaras"@hun-Latn ;
-    wdata:q7200235 "HU014002" ;
+    wdata:Q7200235 "HU014002" ;
 .
 
 <urn:mdciii:1603:16:348:2:14003>
@@ -723,7 +723,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Cegledi jaras"@hun-Latn ;
-    wdata:q7200235 "HU014003" ;
+    wdata:Q7200235 "HU014003" ;
 .
 
 <urn:mdciii:1603:16:348:2:14004>
@@ -735,7 +735,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Dabasi jaras"@hun-Latn ;
-    wdata:q7200235 "HU014004" ;
+    wdata:Q7200235 "HU014004" ;
 .
 
 <urn:mdciii:1603:16:348:2:14005>
@@ -747,7 +747,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Dunakeszi jaras"@hun-Latn ;
-    wdata:q7200235 "HU014005" ;
+    wdata:Q7200235 "HU014005" ;
 .
 
 <urn:mdciii:1603:16:348:2:14006>
@@ -759,7 +759,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Erdi jaras"@hun-Latn ;
-    wdata:q7200235 "HU014006" ;
+    wdata:Q7200235 "HU014006" ;
 .
 
 <urn:mdciii:1603:16:348:2:14007>
@@ -771,7 +771,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Godollo Regional Unit"@hun-Latn ;
-    wdata:q7200235 "HU014007" ;
+    wdata:Q7200235 "HU014007" ;
 .
 
 <urn:mdciii:1603:16:348:2:14008>
@@ -783,7 +783,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Gyali jaras"@hun-Latn ;
-    wdata:q7200235 "HU014008" ;
+    wdata:Q7200235 "HU014008" ;
 .
 
 <urn:mdciii:1603:16:348:2:14009>
@@ -795,7 +795,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Monori jaras"@hun-Latn ;
-    wdata:q7200235 "HU014009" ;
+    wdata:Q7200235 "HU014009" ;
 .
 
 <urn:mdciii:1603:16:348:2:14010>
@@ -807,7 +807,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Nagykatai jaras"@hun-Latn ;
-    wdata:q7200235 "HU014010" ;
+    wdata:Q7200235 "HU014010" ;
 .
 
 <urn:mdciii:1603:16:348:2:14011>
@@ -819,7 +819,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Nagykorosi jaras"@hun-Latn ;
-    wdata:q7200235 "HU014011" ;
+    wdata:Q7200235 "HU014011" ;
 .
 
 <urn:mdciii:1603:16:348:2:14012>
@@ -831,7 +831,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Pilisvorosvari jaras"@hun-Latn ;
-    wdata:q7200235 "HU014012" ;
+    wdata:Q7200235 "HU014012" ;
 .
 
 <urn:mdciii:1603:16:348:2:14013>
@@ -843,7 +843,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Rackevei jaras"@hun-Latn ;
-    wdata:q7200235 "HU014013" ;
+    wdata:Q7200235 "HU014013" ;
 .
 
 <urn:mdciii:1603:16:348:2:14014>
@@ -855,7 +855,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Szentendrei jaras"@hun-Latn ;
-    wdata:q7200235 "HU014014" ;
+    wdata:Q7200235 "HU014014" ;
 .
 
 <urn:mdciii:1603:16:348:2:14015>
@@ -867,7 +867,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Szigetszentmiklosi jaras"@hun-Latn ;
-    wdata:q7200235 "HU014015" ;
+    wdata:Q7200235 "HU014015" ;
 .
 
 <urn:mdciii:1603:16:348:2:14016>
@@ -879,7 +879,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Szobi jaras"@hun-Latn ;
-    wdata:q7200235 "HU014016" ;
+    wdata:Q7200235 "HU014016" ;
 .
 
 <urn:mdciii:1603:16:348:2:14017>
@@ -891,7 +891,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Vaci jaras"@hun-Latn ;
-    wdata:q7200235 "HU014017" ;
+    wdata:Q7200235 "HU014017" ;
 .
 
 <urn:mdciii:1603:16:348:2:14018>
@@ -903,7 +903,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:14> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:14> ;
     skos:prefLabel "Vecsesi jaras"@hun-Latn ;
-    wdata:q7200235 "HU014018" ;
+    wdata:Q7200235 "HU014018" ;
 .
 
 <urn:mdciii:1603:16:348:2:15001>
@@ -915,7 +915,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:15> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:15> ;
     skos:prefLabel "Barcsi jaras"@hun-Latn ;
-    wdata:q7200235 "HU015001" ;
+    wdata:Q7200235 "HU015001" ;
 .
 
 <urn:mdciii:1603:16:348:2:15002>
@@ -927,7 +927,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:15> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:15> ;
     skos:prefLabel "Csurgoi jaras"@hun-Latn ;
-    wdata:q7200235 "HU015002" ;
+    wdata:Q7200235 "HU015002" ;
 .
 
 <urn:mdciii:1603:16:348:2:15003>
@@ -939,7 +939,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:15> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:15> ;
     skos:prefLabel "Fonyodi jaras"@hun-Latn ;
-    wdata:q7200235 "HU015003" ;
+    wdata:Q7200235 "HU015003" ;
 .
 
 <urn:mdciii:1603:16:348:2:15004>
@@ -951,7 +951,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:15> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:15> ;
     skos:prefLabel "Kaposvari jaras"@hun-Latn ;
-    wdata:q7200235 "HU015004" ;
+    wdata:Q7200235 "HU015004" ;
 .
 
 <urn:mdciii:1603:16:348:2:15005>
@@ -963,7 +963,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:15> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:15> ;
     skos:prefLabel "Marcali jaras"@hun-Latn ;
-    wdata:q7200235 "HU015005" ;
+    wdata:Q7200235 "HU015005" ;
 .
 
 <urn:mdciii:1603:16:348:2:15006>
@@ -975,7 +975,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:15> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:15> ;
     skos:prefLabel "Nagyatadi jaras"@hun-Latn ;
-    wdata:q7200235 "HU015006" ;
+    wdata:Q7200235 "HU015006" ;
 .
 
 <urn:mdciii:1603:16:348:2:15007>
@@ -987,7 +987,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:15> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:15> ;
     skos:prefLabel "Siofoki jaras"@hun-Latn ;
-    wdata:q7200235 "HU015007" ;
+    wdata:Q7200235 "HU015007" ;
 .
 
 <urn:mdciii:1603:16:348:2:15008>
@@ -999,7 +999,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:15> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:15> ;
     skos:prefLabel "Tabi jaras"@hun-Latn ;
-    wdata:q7200235 "HU015008" ;
+    wdata:Q7200235 "HU015008" ;
 .
 
 <urn:mdciii:1603:16:348:2:16001>
@@ -1011,7 +1011,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "Baktaloranthazai jaras"@hun-Latn ;
-    wdata:q7200235 "HU016001" ;
+    wdata:Q7200235 "HU016001" ;
 .
 
 <urn:mdciii:1603:16:348:2:16002>
@@ -1023,7 +1023,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "Csengeri jaras"@hun-Latn ;
-    wdata:q7200235 "HU016002" ;
+    wdata:Q7200235 "HU016002" ;
 .
 
 <urn:mdciii:1603:16:348:2:16003>
@@ -1035,7 +1035,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "Fehergyarmati jaras"@hun-Latn ;
-    wdata:q7200235 "HU016003" ;
+    wdata:Q7200235 "HU016003" ;
 .
 
 <urn:mdciii:1603:16:348:2:16004>
@@ -1047,7 +1047,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "Ibranyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU016004" ;
+    wdata:Q7200235 "HU016004" ;
 .
 
 <urn:mdciii:1603:16:348:2:16005>
@@ -1059,7 +1059,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "Kemecsei jaras"@hun-Latn ;
-    wdata:q7200235 "HU016005" ;
+    wdata:Q7200235 "HU016005" ;
 .
 
 <urn:mdciii:1603:16:348:2:16006>
@@ -1071,7 +1071,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "Kisvardai jaras"@hun-Latn ;
-    wdata:q7200235 "HU016006" ;
+    wdata:Q7200235 "HU016006" ;
 .
 
 <urn:mdciii:1603:16:348:2:16007>
@@ -1083,7 +1083,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "Mateszalkai jaras"@hun-Latn ;
-    wdata:q7200235 "HU016007" ;
+    wdata:Q7200235 "HU016007" ;
 .
 
 <urn:mdciii:1603:16:348:2:16008>
@@ -1095,7 +1095,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "Nagykalloi jaras"@hun-Latn ;
-    wdata:q7200235 "HU016008" ;
+    wdata:Q7200235 "HU016008" ;
 .
 
 <urn:mdciii:1603:16:348:2:16009>
@@ -1107,7 +1107,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "NyNrbatori jaras"@hun-Latn ;
-    wdata:q7200235 "HU016009" ;
+    wdata:Q7200235 "HU016009" ;
 .
 
 <urn:mdciii:1603:16:348:2:16010>
@@ -1119,7 +1119,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "NyNregyhazi jaras"@hun-Latn ;
-    wdata:q7200235 "HU016010" ;
+    wdata:Q7200235 "HU016010" ;
 .
 
 <urn:mdciii:1603:16:348:2:16011>
@@ -1131,7 +1131,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "Tiszavasvari jaras"@hun-Latn ;
-    wdata:q7200235 "HU016011" ;
+    wdata:Q7200235 "HU016011" ;
 .
 
 <urn:mdciii:1603:16:348:2:16012>
@@ -1143,7 +1143,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "Vasarosnamenyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU016012" ;
+    wdata:Q7200235 "HU016012" ;
 .
 
 <urn:mdciii:1603:16:348:2:16013>
@@ -1155,7 +1155,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
     skos:prefLabel "Zahonyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU016013" ;
+    wdata:Q7200235 "HU016013" ;
 .
 
 <urn:mdciii:1603:16:348:2:17001>
@@ -1167,7 +1167,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:17> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:17> ;
     skos:prefLabel "Bonyhadi jaras"@hun-Latn ;
-    wdata:q7200235 "HU017001" ;
+    wdata:Q7200235 "HU017001" ;
 .
 
 <urn:mdciii:1603:16:348:2:17002>
@@ -1179,7 +1179,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:17> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:17> ;
     skos:prefLabel "Dombovari jaras"@hun-Latn ;
-    wdata:q7200235 "HU017002" ;
+    wdata:Q7200235 "HU017002" ;
 .
 
 <urn:mdciii:1603:16:348:2:17003>
@@ -1191,7 +1191,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:17> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:17> ;
     skos:prefLabel "Paksi jaras"@hun-Latn ;
-    wdata:q7200235 "HU017003" ;
+    wdata:Q7200235 "HU017003" ;
 .
 
 <urn:mdciii:1603:16:348:2:17004>
@@ -1203,7 +1203,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:17> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:17> ;
     skos:prefLabel "Szekszardi jaras"@hun-Latn ;
-    wdata:q7200235 "HU017004" ;
+    wdata:Q7200235 "HU017004" ;
 .
 
 <urn:mdciii:1603:16:348:2:17005>
@@ -1215,7 +1215,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:17> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:17> ;
     skos:prefLabel "Tamasi jaras"@hun-Latn ;
-    wdata:q7200235 "HU017005" ;
+    wdata:Q7200235 "HU017005" ;
 .
 
 <urn:mdciii:1603:16:348:2:17006>
@@ -1227,7 +1227,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:17> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:17> ;
     skos:prefLabel "Tolnai jaras"@hun-Latn ;
-    wdata:q7200235 "HU017006" ;
+    wdata:Q7200235 "HU017006" ;
 .
 
 <urn:mdciii:1603:16:348:2:18001>
@@ -1239,7 +1239,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:18> ;
     skos:prefLabel "Celldomolki jaras"@hun-Latn ;
-    wdata:q7200235 "HU018001" ;
+    wdata:Q7200235 "HU018001" ;
 .
 
 <urn:mdciii:1603:16:348:2:18002>
@@ -1251,7 +1251,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:18> ;
     skos:prefLabel "Kormendi jaras"@hun-Latn ;
-    wdata:q7200235 "HU018002" ;
+    wdata:Q7200235 "HU018002" ;
 .
 
 <urn:mdciii:1603:16:348:2:18003>
@@ -1263,7 +1263,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:18> ;
     skos:prefLabel "Koszegi jaras"@hun-Latn ;
-    wdata:q7200235 "HU018003" ;
+    wdata:Q7200235 "HU018003" ;
 .
 
 <urn:mdciii:1603:16:348:2:18004>
@@ -1275,7 +1275,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:18> ;
     skos:prefLabel "Sarvari jaras"@hun-Latn ;
-    wdata:q7200235 "HU018004" ;
+    wdata:Q7200235 "HU018004" ;
 .
 
 <urn:mdciii:1603:16:348:2:18005>
@@ -1287,7 +1287,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:18> ;
     skos:prefLabel "Szentgotthardi jaras"@hun-Latn ;
-    wdata:q7200235 "HU018005" ;
+    wdata:Q7200235 "HU018005" ;
 .
 
 <urn:mdciii:1603:16:348:2:18006>
@@ -1299,7 +1299,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:18> ;
     skos:prefLabel "Szombathelyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU018006" ;
+    wdata:Q7200235 "HU018006" ;
 .
 
 <urn:mdciii:1603:16:348:2:18007>
@@ -1311,7 +1311,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:18> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:18> ;
     skos:prefLabel "Vasvari jaras"@hun-Latn ;
-    wdata:q7200235 "HU018007" ;
+    wdata:Q7200235 "HU018007" ;
 .
 
 <urn:mdciii:1603:16:348:2:19001>
@@ -1323,7 +1323,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:19> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:19> ;
     skos:prefLabel "Ajkai jaras"@hun-Latn ;
-    wdata:q7200235 "HU019001" ;
+    wdata:Q7200235 "HU019001" ;
 .
 
 <urn:mdciii:1603:16:348:2:19002>
@@ -1335,7 +1335,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:19> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:19> ;
     skos:prefLabel "Balatonalmadi jaras"@hun-Latn ;
-    wdata:q7200235 "HU019002" ;
+    wdata:Q7200235 "HU019002" ;
 .
 
 <urn:mdciii:1603:16:348:2:19003>
@@ -1347,7 +1347,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:19> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:19> ;
     skos:prefLabel "Balatonfuredi jaras"@hun-Latn ;
-    wdata:q7200235 "HU019003" ;
+    wdata:Q7200235 "HU019003" ;
 .
 
 <urn:mdciii:1603:16:348:2:19004>
@@ -1359,7 +1359,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:19> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:19> ;
     skos:prefLabel "Devecseri jaras"@hun-Latn ;
-    wdata:q7200235 "HU019004" ;
+    wdata:Q7200235 "HU019004" ;
 .
 
 <urn:mdciii:1603:16:348:2:19005>
@@ -1371,7 +1371,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:19> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:19> ;
     skos:prefLabel "Papai jaras"@hun-Latn ;
-    wdata:q7200235 "HU019005" ;
+    wdata:Q7200235 "HU019005" ;
 .
 
 <urn:mdciii:1603:16:348:2:19006>
@@ -1383,7 +1383,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:19> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:19> ;
     skos:prefLabel "Sumegi jaras"@hun-Latn ;
-    wdata:q7200235 "HU019006" ;
+    wdata:Q7200235 "HU019006" ;
 .
 
 <urn:mdciii:1603:16:348:2:19007>
@@ -1395,7 +1395,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:19> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:19> ;
     skos:prefLabel "Tapolcai jaras"@hun-Latn ;
-    wdata:q7200235 "HU019007" ;
+    wdata:Q7200235 "HU019007" ;
 .
 
 <urn:mdciii:1603:16:348:2:19008>
@@ -1407,7 +1407,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:19> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:19> ;
     skos:prefLabel "Varpalotai jaras"@hun-Latn ;
-    wdata:q7200235 "HU019008" ;
+    wdata:Q7200235 "HU019008" ;
 .
 
 <urn:mdciii:1603:16:348:2:19009>
@@ -1419,7 +1419,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:19> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:19> ;
     skos:prefLabel "Veszpremi jaras"@hun-Latn ;
-    wdata:q7200235 "HU019009" ;
+    wdata:Q7200235 "HU019009" ;
 .
 
 <urn:mdciii:1603:16:348:2:19010>
@@ -1431,7 +1431,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:19> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:19> ;
     skos:prefLabel "Zirci jaras"@hun-Latn ;
-    wdata:q7200235 "HU019010" ;
+    wdata:Q7200235 "HU019010" ;
 .
 
 <urn:mdciii:1603:16:348:2:20001>
@@ -1443,7 +1443,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:20> ;
     skos:prefLabel "Keszthelyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU020001" ;
+    wdata:Q7200235 "HU020001" ;
 .
 
 <urn:mdciii:1603:16:348:2:20002>
@@ -1455,7 +1455,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:20> ;
     skos:prefLabel "Lenti jaras"@hun-Latn ;
-    wdata:q7200235 "HU020002" ;
+    wdata:Q7200235 "HU020002" ;
 .
 
 <urn:mdciii:1603:16:348:2:20003>
@@ -1467,7 +1467,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:20> ;
     skos:prefLabel "Letenyei jaras"@hun-Latn ;
-    wdata:q7200235 "HU020003" ;
+    wdata:Q7200235 "HU020003" ;
 .
 
 <urn:mdciii:1603:16:348:2:20004>
@@ -1479,7 +1479,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:20> ;
     skos:prefLabel "Nagykanizsai jaras"@hun-Latn ;
-    wdata:q7200235 "HU020004" ;
+    wdata:Q7200235 "HU020004" ;
 .
 
 <urn:mdciii:1603:16:348:2:20005>
@@ -1491,7 +1491,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:20> ;
     skos:prefLabel "Zalaegerszegi jaras"@hun-Latn ;
-    wdata:q7200235 "HU020005" ;
+    wdata:Q7200235 "HU020005" ;
 .
 
 <urn:mdciii:1603:16:348:2:20006>
@@ -1503,7 +1503,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:20> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:20> ;
     skos:prefLabel "Zalaszentgroti jaras"@hun-Latn ;
-    wdata:q7200235 "HU020006" ;
+    wdata:Q7200235 "HU020006" ;
 .
 
 <urn:mdciii:1603:16:348:2:2001>
@@ -1515,7 +1515,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:2> ;
     skos:prefLabel "Bolyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU002001" ;
+    wdata:Q7200235 "HU002001" ;
 .
 
 <urn:mdciii:1603:16:348:2:2002>
@@ -1527,7 +1527,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:2> ;
     skos:prefLabel "Hegyhati jaras"@hun-Latn ;
-    wdata:q7200235 "HU002002" ;
+    wdata:Q7200235 "HU002002" ;
 .
 
 <urn:mdciii:1603:16:348:2:2003>
@@ -1539,7 +1539,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:2> ;
     skos:prefLabel "Komloi jaras"@hun-Latn ;
-    wdata:q7200235 "HU002003" ;
+    wdata:Q7200235 "HU002003" ;
 .
 
 <urn:mdciii:1603:16:348:2:2004>
@@ -1551,7 +1551,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:2> ;
     skos:prefLabel "Mohacsi jaras"@hun-Latn ;
-    wdata:q7200235 "HU002004" ;
+    wdata:Q7200235 "HU002004" ;
 .
 
 <urn:mdciii:1603:16:348:2:2005>
@@ -1563,7 +1563,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:2> ;
     skos:prefLabel "Pecsi jaras"@hun-Latn ;
-    wdata:q7200235 "HU002005" ;
+    wdata:Q7200235 "HU002005" ;
 .
 
 <urn:mdciii:1603:16:348:2:2006>
@@ -1575,7 +1575,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:2> ;
     skos:prefLabel "Pecsvaradi jaras"@hun-Latn ;
-    wdata:q7200235 "HU002006" ;
+    wdata:Q7200235 "HU002006" ;
 .
 
 <urn:mdciii:1603:16:348:2:2007>
@@ -1587,7 +1587,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:2> ;
     skos:prefLabel "Sellyei jaras"@hun-Latn ;
-    wdata:q7200235 "HU002007" ;
+    wdata:Q7200235 "HU002007" ;
 .
 
 <urn:mdciii:1603:16:348:2:2008>
@@ -1599,7 +1599,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:2> ;
     skos:prefLabel "Siklosi jaras"@hun-Latn ;
-    wdata:q7200235 "HU002008" ;
+    wdata:Q7200235 "HU002008" ;
 .
 
 <urn:mdciii:1603:16:348:2:2009>
@@ -1611,7 +1611,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:2> ;
     skos:prefLabel "Szentlorinci Jaras"@hun-Latn ;
-    wdata:q7200235 "HU002009" ;
+    wdata:Q7200235 "HU002009" ;
 .
 
 <urn:mdciii:1603:16:348:2:2010>
@@ -1623,7 +1623,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:2> ;
     skos:prefLabel "Szigetvari jaras"@hun-Latn ;
-    wdata:q7200235 "HU002010" ;
+    wdata:Q7200235 "HU002010" ;
 .
 
 <urn:mdciii:1603:16:348:2:3001>
@@ -1635,7 +1635,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:3> ;
     skos:prefLabel "Bekescsabai jaras"@hun-Latn ;
-    wdata:q7200235 "HU003001" ;
+    wdata:Q7200235 "HU003001" ;
 .
 
 <urn:mdciii:1603:16:348:2:3002>
@@ -1647,7 +1647,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:3> ;
     skos:prefLabel "Bekesi jaras"@hun-Latn ;
-    wdata:q7200235 "HU003002" ;
+    wdata:Q7200235 "HU003002" ;
 .
 
 <urn:mdciii:1603:16:348:2:3003>
@@ -1659,7 +1659,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:3> ;
     skos:prefLabel "Gyomaendrodi jaras"@hun-Latn ;
-    wdata:q7200235 "HU003003" ;
+    wdata:Q7200235 "HU003003" ;
 .
 
 <urn:mdciii:1603:16:348:2:3004>
@@ -1671,7 +1671,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:3> ;
     skos:prefLabel "Gyulai jaras"@hun-Latn ;
-    wdata:q7200235 "HU003004" ;
+    wdata:Q7200235 "HU003004" ;
 .
 
 <urn:mdciii:1603:16:348:2:3005>
@@ -1683,7 +1683,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:3> ;
     skos:prefLabel "Mezokovacshazai jaras"@hun-Latn ;
-    wdata:q7200235 "HU003005" ;
+    wdata:Q7200235 "HU003005" ;
 .
 
 <urn:mdciii:1603:16:348:2:3006>
@@ -1695,7 +1695,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:3> ;
     skos:prefLabel "Oroshazi jaras"@hun-Latn ;
-    wdata:q7200235 "HU003006" ;
+    wdata:Q7200235 "HU003006" ;
 .
 
 <urn:mdciii:1603:16:348:2:3007>
@@ -1707,7 +1707,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:3> ;
     skos:prefLabel "Sarkadi jaras"@hun-Latn ;
-    wdata:q7200235 "HU003007" ;
+    wdata:Q7200235 "HU003007" ;
 .
 
 <urn:mdciii:1603:16:348:2:3008>
@@ -1719,7 +1719,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:3> ;
     skos:prefLabel "Szarvasi jaras"@hun-Latn ;
-    wdata:q7200235 "HU003008" ;
+    wdata:Q7200235 "HU003008" ;
 .
 
 <urn:mdciii:1603:16:348:2:3009>
@@ -1731,7 +1731,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:3> ;
     skos:prefLabel "Szeghalmi jaras"@hun-Latn ;
-    wdata:q7200235 "HU003009" ;
+    wdata:Q7200235 "HU003009" ;
 .
 
 <urn:mdciii:1603:16:348:2:4001>
@@ -1743,7 +1743,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Cigandi jaras"@hun-Latn ;
-    wdata:q7200235 "HU004001" ;
+    wdata:Q7200235 "HU004001" ;
 .
 
 <urn:mdciii:1603:16:348:2:4002>
@@ -1755,7 +1755,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Edelenyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU004002" ;
+    wdata:Q7200235 "HU004002" ;
 .
 
 <urn:mdciii:1603:16:348:2:4003>
@@ -1767,7 +1767,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Encsi jaras"@hun-Latn ;
-    wdata:q7200235 "HU004003" ;
+    wdata:Q7200235 "HU004003" ;
 .
 
 <urn:mdciii:1603:16:348:2:4004>
@@ -1779,7 +1779,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Gonci jaras"@hun-Latn ;
-    wdata:q7200235 "HU004004" ;
+    wdata:Q7200235 "HU004004" ;
 .
 
 <urn:mdciii:1603:16:348:2:4005>
@@ -1791,7 +1791,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Kazincbarcikai jaras"@hun-Latn ;
-    wdata:q7200235 "HU004005" ;
+    wdata:Q7200235 "HU004005" ;
 .
 
 <urn:mdciii:1603:16:348:2:4006>
@@ -1803,7 +1803,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Mezocsati jaras"@hun-Latn ;
-    wdata:q7200235 "HU004006" ;
+    wdata:Q7200235 "HU004006" ;
 .
 
 <urn:mdciii:1603:16:348:2:4007>
@@ -1815,7 +1815,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Mezokovesdi jaras"@hun-Latn ;
-    wdata:q7200235 "HU004007" ;
+    wdata:Q7200235 "HU004007" ;
 .
 
 <urn:mdciii:1603:16:348:2:4008>
@@ -1827,7 +1827,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Miskolci jaras"@hun-Latn ;
-    wdata:q7200235 "HU004008" ;
+    wdata:Q7200235 "HU004008" ;
 .
 
 <urn:mdciii:1603:16:348:2:4009>
@@ -1839,7 +1839,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "ozdi jaras"@hun-Latn ;
-    wdata:q7200235 "HU004009" ;
+    wdata:Q7200235 "HU004009" ;
 .
 
 <urn:mdciii:1603:16:348:2:4010>
@@ -1851,7 +1851,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Putnoki jaras"@hun-Latn ;
-    wdata:q7200235 "HU004010" ;
+    wdata:Q7200235 "HU004010" ;
 .
 
 <urn:mdciii:1603:16:348:2:4011>
@@ -1863,7 +1863,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Sarospataki jaras"@hun-Latn ;
-    wdata:q7200235 "HU004011" ;
+    wdata:Q7200235 "HU004011" ;
 .
 
 <urn:mdciii:1603:16:348:2:4012>
@@ -1875,7 +1875,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Satoraljaujhelyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU004012" ;
+    wdata:Q7200235 "HU004012" ;
 .
 
 <urn:mdciii:1603:16:348:2:4013>
@@ -1887,7 +1887,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Szerencsi jaras"@hun-Latn ;
-    wdata:q7200235 "HU004013" ;
+    wdata:Q7200235 "HU004013" ;
 .
 
 <urn:mdciii:1603:16:348:2:4014>
@@ -1899,7 +1899,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Szikszoi jaras"@hun-Latn ;
-    wdata:q7200235 "HU004014" ;
+    wdata:Q7200235 "HU004014" ;
 .
 
 <urn:mdciii:1603:16:348:2:4015>
@@ -1911,7 +1911,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Tiszaujvarosi jaras"@hun-Latn ;
-    wdata:q7200235 "HU004015" ;
+    wdata:Q7200235 "HU004015" ;
 .
 
 <urn:mdciii:1603:16:348:2:4016>
@@ -1923,7 +1923,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
     skos:prefLabel "Tokaji jaras"@hun-Latn ;
-    wdata:q7200235 "HU004016" ;
+    wdata:Q7200235 "HU004016" ;
 .
 
 <urn:mdciii:1603:16:348:2:5001>
@@ -1935,7 +1935,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "10th district"@hun-Latn ;
-    wdata:q7200235 "HU005001" ;
+    wdata:Q7200235 "HU005001" ;
 .
 
 <urn:mdciii:1603:16:348:2:5002>
@@ -1947,7 +1947,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "11th district"@hun-Latn ;
-    wdata:q7200235 "HU005002" ;
+    wdata:Q7200235 "HU005002" ;
 .
 
 <urn:mdciii:1603:16:348:2:5003>
@@ -1959,7 +1959,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "12th district"@hun-Latn ;
-    wdata:q7200235 "HU005003" ;
+    wdata:Q7200235 "HU005003" ;
 .
 
 <urn:mdciii:1603:16:348:2:5004>
@@ -1971,7 +1971,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "13th district"@hun-Latn ;
-    wdata:q7200235 "HU005004" ;
+    wdata:Q7200235 "HU005004" ;
 .
 
 <urn:mdciii:1603:16:348:2:5005>
@@ -1983,7 +1983,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "14th district"@hun-Latn ;
-    wdata:q7200235 "HU005005" ;
+    wdata:Q7200235 "HU005005" ;
 .
 
 <urn:mdciii:1603:16:348:2:5006>
@@ -1995,7 +1995,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "15th district"@hun-Latn ;
-    wdata:q7200235 "HU005006" ;
+    wdata:Q7200235 "HU005006" ;
 .
 
 <urn:mdciii:1603:16:348:2:5007>
@@ -2007,7 +2007,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "16th district"@hun-Latn ;
-    wdata:q7200235 "HU005007" ;
+    wdata:Q7200235 "HU005007" ;
 .
 
 <urn:mdciii:1603:16:348:2:5008>
@@ -2019,7 +2019,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "17th district"@hun-Latn ;
-    wdata:q7200235 "HU005008" ;
+    wdata:Q7200235 "HU005008" ;
 .
 
 <urn:mdciii:1603:16:348:2:5009>
@@ -2031,7 +2031,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "18th district"@hun-Latn ;
-    wdata:q7200235 "HU005009" ;
+    wdata:Q7200235 "HU005009" ;
 .
 
 <urn:mdciii:1603:16:348:2:5010>
@@ -2043,7 +2043,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "19th district"@hun-Latn ;
-    wdata:q7200235 "HU005010" ;
+    wdata:Q7200235 "HU005010" ;
 .
 
 <urn:mdciii:1603:16:348:2:5011>
@@ -2055,7 +2055,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "1st district"@hun-Latn ;
-    wdata:q7200235 "HU005011" ;
+    wdata:Q7200235 "HU005011" ;
 .
 
 <urn:mdciii:1603:16:348:2:5012>
@@ -2067,7 +2067,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "20th district"@hun-Latn ;
-    wdata:q7200235 "HU005012" ;
+    wdata:Q7200235 "HU005012" ;
 .
 
 <urn:mdciii:1603:16:348:2:5013>
@@ -2079,7 +2079,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "21st district"@hun-Latn ;
-    wdata:q7200235 "HU005013" ;
+    wdata:Q7200235 "HU005013" ;
 .
 
 <urn:mdciii:1603:16:348:2:5014>
@@ -2091,7 +2091,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "22nd district"@hun-Latn ;
-    wdata:q7200235 "HU005014" ;
+    wdata:Q7200235 "HU005014" ;
 .
 
 <urn:mdciii:1603:16:348:2:5015>
@@ -2103,7 +2103,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "23rd district"@hun-Latn ;
-    wdata:q7200235 "HU005015" ;
+    wdata:Q7200235 "HU005015" ;
 .
 
 <urn:mdciii:1603:16:348:2:5016>
@@ -2115,7 +2115,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "2nd district"@hun-Latn ;
-    wdata:q7200235 "HU005016" ;
+    wdata:Q7200235 "HU005016" ;
 .
 
 <urn:mdciii:1603:16:348:2:5017>
@@ -2127,7 +2127,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "3rd district"@hun-Latn ;
-    wdata:q7200235 "HU005017" ;
+    wdata:Q7200235 "HU005017" ;
 .
 
 <urn:mdciii:1603:16:348:2:5018>
@@ -2139,7 +2139,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "4th district"@hun-Latn ;
-    wdata:q7200235 "HU005018" ;
+    wdata:Q7200235 "HU005018" ;
 .
 
 <urn:mdciii:1603:16:348:2:5019>
@@ -2151,7 +2151,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "5th district"@hun-Latn ;
-    wdata:q7200235 "HU005019" ;
+    wdata:Q7200235 "HU005019" ;
 .
 
 <urn:mdciii:1603:16:348:2:5020>
@@ -2163,7 +2163,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "6th district"@hun-Latn ;
-    wdata:q7200235 "HU005020" ;
+    wdata:Q7200235 "HU005020" ;
 .
 
 <urn:mdciii:1603:16:348:2:5021>
@@ -2175,7 +2175,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "7th district"@hun-Latn ;
-    wdata:q7200235 "HU005021" ;
+    wdata:Q7200235 "HU005021" ;
 .
 
 <urn:mdciii:1603:16:348:2:5022>
@@ -2187,7 +2187,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "8th district"@hun-Latn ;
-    wdata:q7200235 "HU005022" ;
+    wdata:Q7200235 "HU005022" ;
 .
 
 <urn:mdciii:1603:16:348:2:5023>
@@ -2199,7 +2199,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:5> ;
     skos:prefLabel "9th district"@hun-Latn ;
-    wdata:q7200235 "HU005023" ;
+    wdata:Q7200235 "HU005023" ;
 .
 
 <urn:mdciii:1603:16:348:2:6001>
@@ -2211,7 +2211,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:6> ;
     skos:prefLabel "Csongradi jaras"@hun-Latn ;
-    wdata:q7200235 "HU006001" ;
+    wdata:Q7200235 "HU006001" ;
 .
 
 <urn:mdciii:1603:16:348:2:6002>
@@ -2223,7 +2223,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:6> ;
     skos:prefLabel "Hodmezovasarhelyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU006002" ;
+    wdata:Q7200235 "HU006002" ;
 .
 
 <urn:mdciii:1603:16:348:2:6003>
@@ -2235,7 +2235,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:6> ;
     skos:prefLabel "Kisteleki jaras"@hun-Latn ;
-    wdata:q7200235 "HU006003" ;
+    wdata:Q7200235 "HU006003" ;
 .
 
 <urn:mdciii:1603:16:348:2:6004>
@@ -2247,7 +2247,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:6> ;
     skos:prefLabel "Makoi jaras"@hun-Latn ;
-    wdata:q7200235 "HU006004" ;
+    wdata:Q7200235 "HU006004" ;
 .
 
 <urn:mdciii:1603:16:348:2:6005>
@@ -2259,7 +2259,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:6> ;
     skos:prefLabel "Morahalmi jaras"@hun-Latn ;
-    wdata:q7200235 "HU006005" ;
+    wdata:Q7200235 "HU006005" ;
 .
 
 <urn:mdciii:1603:16:348:2:6006>
@@ -2271,7 +2271,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:6> ;
     skos:prefLabel "Szegedi jaras"@hun-Latn ;
-    wdata:q7200235 "HU006006" ;
+    wdata:Q7200235 "HU006006" ;
 .
 
 <urn:mdciii:1603:16:348:2:6007>
@@ -2283,7 +2283,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:6> ;
     skos:prefLabel "Szentesi jaras"@hun-Latn ;
-    wdata:q7200235 "HU006007" ;
+    wdata:Q7200235 "HU006007" ;
 .
 
 <urn:mdciii:1603:16:348:2:7001>
@@ -2295,7 +2295,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:7> ;
     skos:prefLabel "Bicskei jaras"@hun-Latn ;
-    wdata:q7200235 "HU007001" ;
+    wdata:Q7200235 "HU007001" ;
 .
 
 <urn:mdciii:1603:16:348:2:7002>
@@ -2307,7 +2307,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:7> ;
     skos:prefLabel "Dunaujvarosi jaras"@hun-Latn ;
-    wdata:q7200235 "HU007002" ;
+    wdata:Q7200235 "HU007002" ;
 .
 
 <urn:mdciii:1603:16:348:2:7003>
@@ -2319,7 +2319,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:7> ;
     skos:prefLabel "Enyingi jaras"@hun-Latn ;
-    wdata:q7200235 "HU007003" ;
+    wdata:Q7200235 "HU007003" ;
 .
 
 <urn:mdciii:1603:16:348:2:7004>
@@ -2331,7 +2331,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:7> ;
     skos:prefLabel "Gardonyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU007004" ;
+    wdata:Q7200235 "HU007004" ;
 .
 
 <urn:mdciii:1603:16:348:2:7005>
@@ -2343,7 +2343,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:7> ;
     skos:prefLabel "Martonvasari jaras"@hun-Latn ;
-    wdata:q7200235 "HU007005" ;
+    wdata:Q7200235 "HU007005" ;
 .
 
 <urn:mdciii:1603:16:348:2:7006>
@@ -2355,7 +2355,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:7> ;
     skos:prefLabel "Mori jaras"@hun-Latn ;
-    wdata:q7200235 "HU007006" ;
+    wdata:Q7200235 "HU007006" ;
 .
 
 <urn:mdciii:1603:16:348:2:7007>
@@ -2367,7 +2367,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:7> ;
     skos:prefLabel "Sarbogardi jaras"@hun-Latn ;
-    wdata:q7200235 "HU007007" ;
+    wdata:Q7200235 "HU007007" ;
 .
 
 <urn:mdciii:1603:16:348:2:7008>
@@ -2379,7 +2379,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:7> ;
     skos:prefLabel "Szekesfehervari jaras"@hun-Latn ;
-    wdata:q7200235 "HU007008" ;
+    wdata:Q7200235 "HU007008" ;
 .
 
 <urn:mdciii:1603:16:348:2:8001>
@@ -2391,7 +2391,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:8> ;
     skos:prefLabel "Csornai jaras"@hun-Latn ;
-    wdata:q7200235 "HU008001" ;
+    wdata:Q7200235 "HU008001" ;
 .
 
 <urn:mdciii:1603:16:348:2:8002>
@@ -2403,7 +2403,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:8> ;
     skos:prefLabel "Gyori jaras"@hun-Latn ;
-    wdata:q7200235 "HU008002" ;
+    wdata:Q7200235 "HU008002" ;
 .
 
 <urn:mdciii:1603:16:348:2:8003>
@@ -2415,7 +2415,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:8> ;
     skos:prefLabel "Kapuvari jaras"@hun-Latn ;
-    wdata:q7200235 "HU008003" ;
+    wdata:Q7200235 "HU008003" ;
 .
 
 <urn:mdciii:1603:16:348:2:8004>
@@ -2427,7 +2427,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:8> ;
     skos:prefLabel "Mosonmagyarovari jaras"@hun-Latn ;
-    wdata:q7200235 "HU008004" ;
+    wdata:Q7200235 "HU008004" ;
 .
 
 <urn:mdciii:1603:16:348:2:8005>
@@ -2439,7 +2439,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:8> ;
     skos:prefLabel "Pannonhalmi jaras"@hun-Latn ;
-    wdata:q7200235 "HU008005" ;
+    wdata:Q7200235 "HU008005" ;
 .
 
 <urn:mdciii:1603:16:348:2:8006>
@@ -2451,7 +2451,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:8> ;
     skos:prefLabel "Soproni jaras"@hun-Latn ;
-    wdata:q7200235 "HU008006" ;
+    wdata:Q7200235 "HU008006" ;
 .
 
 <urn:mdciii:1603:16:348:2:8007>
@@ -2463,7 +2463,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:8> ;
     skos:prefLabel "Teti jaras"@hun-Latn ;
-    wdata:q7200235 "HU008007" ;
+    wdata:Q7200235 "HU008007" ;
 .
 
 <urn:mdciii:1603:16:348:2:9001>
@@ -2475,7 +2475,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:9> ;
     skos:prefLabel "Balmazujvarosi jaras"@hun-Latn ;
-    wdata:q7200235 "HU009001" ;
+    wdata:Q7200235 "HU009001" ;
 .
 
 <urn:mdciii:1603:16:348:2:9002>
@@ -2487,7 +2487,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:9> ;
     skos:prefLabel "Berettyoujfalui jaras"@hun-Latn ;
-    wdata:q7200235 "HU009002" ;
+    wdata:Q7200235 "HU009002" ;
 .
 
 <urn:mdciii:1603:16:348:2:9003>
@@ -2499,7 +2499,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:9> ;
     skos:prefLabel "Debreceni jaras"@hun-Latn ;
-    wdata:q7200235 "HU009003" ;
+    wdata:Q7200235 "HU009003" ;
 .
 
 <urn:mdciii:1603:16:348:2:9004>
@@ -2511,7 +2511,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:9> ;
     skos:prefLabel "Derecskei jaras"@hun-Latn ;
-    wdata:q7200235 "HU009004" ;
+    wdata:Q7200235 "HU009004" ;
 .
 
 <urn:mdciii:1603:16:348:2:9005>
@@ -2523,7 +2523,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:9> ;
     skos:prefLabel "Hajduboszormenyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU009005" ;
+    wdata:Q7200235 "HU009005" ;
 .
 
 <urn:mdciii:1603:16:348:2:9006>
@@ -2535,7 +2535,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:9> ;
     skos:prefLabel "Hajduhadhazi jaras"@hun-Latn ;
-    wdata:q7200235 "HU009006" ;
+    wdata:Q7200235 "HU009006" ;
 .
 
 <urn:mdciii:1603:16:348:2:9007>
@@ -2547,7 +2547,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:9> ;
     skos:prefLabel "Hajdunanasi jaras"@hun-Latn ;
-    wdata:q7200235 "HU009007" ;
+    wdata:Q7200235 "HU009007" ;
 .
 
 <urn:mdciii:1603:16:348:2:9008>
@@ -2559,7 +2559,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:9> ;
     skos:prefLabel "Hajduszoboszloi jaras"@hun-Latn ;
-    wdata:q7200235 "HU009008" ;
+    wdata:Q7200235 "HU009008" ;
 .
 
 <urn:mdciii:1603:16:348:2:9009>
@@ -2571,7 +2571,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:9> ;
     skos:prefLabel "NyNradonyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU009009" ;
+    wdata:Q7200235 "HU009009" ;
 .
 
 <urn:mdciii:1603:16:348:2:9010>
@@ -2583,6 +2583,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:9> ;
     skos:prefLabel "Puspokladanyi jaras"@hun-Latn ;
-    wdata:q7200235 "HU009010" ;
+    wdata:Q7200235 "HU009010" ;
 .
 
