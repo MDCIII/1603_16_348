@@ -809,7 +809,7 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
         owl:Thing ,
         skos:Concept ;
     rdfs:label "1603:16:348:2:16009" ;
-    skos:prefLabel "NyNrbatori jaras"@hun-Latn ;
+    skos:prefLabel "Nyirbatori jaras"@hun-Latn ;
 .
 
 <urn:mdciii:1603:16:348:2:16010>
@@ -817,7 +817,7 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
         owl:Thing ,
         skos:Concept ;
     rdfs:label "1603:16:348:2:16010" ;
-    skos:prefLabel "NyNregyhazi jaras"@hun-Latn ;
+    skos:prefLabel "Nyiregyhazi jaras"@hun-Latn ;
 .
 
 <urn:mdciii:1603:16:348:2:16011>
@@ -1297,7 +1297,7 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
         owl:Thing ,
         skos:Concept ;
     rdfs:label "1603:16:348:2:4009" ;
-    skos:prefLabel "ozdi jaras"@hun-Latn ;
+    skos:prefLabel "Ozdi jaras"@hun-Latn ;
 .
 
 <urn:mdciii:1603:16:348:2:4010>
@@ -1785,7 +1785,7 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
         owl:Thing ,
         skos:Concept ;
     rdfs:label "1603:16:348:2:9009" ;
-    skos:prefLabel "NyNradonyi jaras"@hun-Latn ;
+    skos:prefLabel "Nyiradonyi jaras"@hun-Latn ;
 .
 
 <urn:mdciii:1603:16:348:2:9010>

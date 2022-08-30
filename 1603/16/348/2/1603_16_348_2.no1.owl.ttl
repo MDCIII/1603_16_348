@@ -1106,7 +1106,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:2:16009" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
-    skos:prefLabel "NyNrbatori jaras"@hun-Latn ;
+    skos:prefLabel "Nyirbatori jaras"@hun-Latn ;
     wdata:Q7200235 "HU016009" ;
 .
 
@@ -1118,7 +1118,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:2:16010" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:16> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:16> ;
-    skos:prefLabel "NyNregyhazi jaras"@hun-Latn ;
+    skos:prefLabel "Nyiregyhazi jaras"@hun-Latn ;
     wdata:Q7200235 "HU016010" ;
 .
 
@@ -1838,7 +1838,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:2:4009" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:4> ;
-    skos:prefLabel "ozdi jaras"@hun-Latn ;
+    skos:prefLabel "Ozdi jaras"@hun-Latn ;
     wdata:Q7200235 "HU004009" ;
 .
 
@@ -2570,7 +2570,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:348:2:9009" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:348:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:348:1:9> ;
-    skos:prefLabel "NyNradonyi jaras"@hun-Latn ;
+    skos:prefLabel "Nyiradonyi jaras"@hun-Latn ;
     wdata:Q7200235 "HU009009" ;
 .
 
